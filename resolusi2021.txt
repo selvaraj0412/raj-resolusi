@@ -3,9 +3,11 @@ resolusi di 2021
 -bisa jadi orang yang sukses
 -bisa mmebahagiakan orang tua
 -bisa berguna bagi nusa dan bangsa
+
 -Bisa bergaul dengan orang lain
 tujuan
   *framework css
   *framework laravel
   *framework js
   *framework phyton
+
